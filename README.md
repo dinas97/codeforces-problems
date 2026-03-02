@@ -8,7 +8,6 @@ It serves as a structured archive of my competitive programming practice and pro
 
 - **Rating folders** → Codeforces problems grouped by difficulty
 - **EDU** → Structured courses from Codeforces EDU
-- **DSU** → Disjoint Set Union course section
 
 ---
 
