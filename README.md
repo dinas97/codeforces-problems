@@ -1,49 +1,89 @@
-# Codeforces Problems
+# Competitive Programming Repository 🚀
 
-This repository contains my solutions to problems from Codeforces and Codeforces EDU, implemented in C++.
+This repository contains my solutions to competitive programming problems from different platforms, organized by topic.
 
-It serves as a structured archive of my competitive programming practice and progress.
-
----
-
-- **Rating folders** → Codeforces problems grouped by difficulty
-- **EDU** → Structured courses from Codeforces EDU
-
----
-
-## Topics Covered
-
-- Implementation
-- Greedy
-- Math
-- Data Structures
-- Disjoint Set Union (DSU)
-
----
-
-## Language
-
-- **C++**
-
----
-
-## Goals
+The goal of this repository is to:
 
 - Strengthen problem-solving skills
-- Master data structures and algorithms
-- Practice competitive programming regularly
-- Track learning progress through Codeforces & EDU
+- Practice data structures and algorithms
+- Track learning progress
+- Build a well-structured reference for revision
 
 ---
 
-## Author
+## 📂 Repository Structure
 
-**Dina**  
-[Codeforces Profile](https://codeforces.com/profile/dina_saba)
+Problems are organized **by topic first**, then by platform when needed.
+
+```
+competitive-programming/
+│
+├── DSU/
+│   ├── EDU/
+│   ├── Codeforces/
+│   └── HackerRank/
+│
+├── Segment-Tree/
+│
+├── Trie/
+│
+│
+├── Greedy/
+├── Binary-Search/
+├── DP/
+│
+└── README.md
+```
 
 ---
 
-## Notes
+## 🧠 Topics Covered
 
-Solutions are organized for clarity and incremental learning.  
-More problems and topics will be added over time.
+- Disjoint Set Union (DSU)
+- Segment Tree
+- Trie
+- Greedy Algorithms
+- Binary Search
+- Dynamic Programming (DP)
+
+More topics will be added over time.
+
+---
+
+## 🏁 Platforms
+
+Problems are solved from platforms such as:
+
+- Codeforces
+- HackerRank
+
+(Some folders may contain platform-specific subfolders.)
+
+---
+
+## 👤 My Profiles
+
+- [Codeforces](https://codeforces.com/profile/dina_saba)
+- [HackerRank](https://www.hackerrank.com/profile/dina_saba1998)
+
+---
+
+## 💻 Languages Used
+
+- C++ (primary language)
+
+---
+
+## 🎯 Purpose
+
+This repository is part of my continuous journey in competitive programming and algorithmic problem solving.
+
+It serves as:
+
+- A personal archive of solved problems
+- A structured revision resource
+- A demonstration of problem-solving consistency
+
+---
+
+⭐ Feel free to explore the solutions and follow the progress!
